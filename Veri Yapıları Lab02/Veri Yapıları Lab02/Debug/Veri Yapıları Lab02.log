@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\melis\source\repos\Veri Yapıları Lab02\Veri Yapıları Lab02\Source.cpp(35,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\melis\source\repos\Veri Yapıları Lab02\Veri Yapıları Lab02\Source.cpp(48,23): warning C4018: '<': signed/unsigned mismatch
+  Veri Yapıları Lab02.vcxproj -> C:\Users\melis\source\repos\Veri Yapıları Lab02\Debug\Veri Yapıları Lab02.exe

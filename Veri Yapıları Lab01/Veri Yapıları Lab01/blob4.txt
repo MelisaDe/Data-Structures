@@ -1,0 +1,21 @@
+20 30
+xxxxx                         
+xxxxxxx                 xxxxxx
+xxxxxxxxx               x     
+xxxxxxxxxxxx            xxxxxx
+xxxxxxxxxxxxxxx         x     
+xxxx                    xxxxxx
+                              
+                              
+xxxxxxx                       
+x                             
+x                             
+xxxxxxx                       
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                               
